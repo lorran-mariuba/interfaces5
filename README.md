@@ -1,4 +1,4 @@
-# Interfaces
+# Interfaces - Example 5
 This projetc show how to compare two objects when the Class needs to use Collections.sort.
 
 The main Class use Try with resources.
